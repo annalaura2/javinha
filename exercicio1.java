@@ -14,6 +14,6 @@ Métodos ou Funções -> são blocos de códigos reutilizáveis para alterar dad
 
 public class App{
     public static void main(String[] args){
-        System.out.println("OI SARINHA, EU TE AMO!");
+        System.out.println("Oi mundo :) ");
     }
 }
