@@ -10,6 +10,12 @@ public class testeConta {
 		
 		contaCorrente.numero = 11; 
 		contaCorrente.saldo = 20.5; 
+		
+		contaPoupanca.numero = 22; 
+		contaPoupanca.saldo = 10.4; 
+		
+		contaInvestimento.numero = 33; 
+		contaInvestimento.saldo = 45.6; 
 	}
 
 }
