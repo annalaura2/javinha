@@ -1,7 +1,7 @@
 package comercialBanco.java;
-
-//projeto Banco em Java 
-
+// projeto conta java 
 public class Conta {
 
+	int numero; 
+	double saldo; 
 }
