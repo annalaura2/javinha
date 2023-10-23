@@ -23,7 +23,11 @@ public class testeConta {
 		contaInvestimento.saldo = 45.6; 
 		contaInvestimento.cliente.nome = "Eva"; 
 		contaInvestimento.cliente.idade = 9; 
+		
+		System.out.println(contaCorrente.numero); 
+		System.out.println(contaCorrente.saldo); 
+		System.out.println(contaCorrente.cliente.nome); 
+		System.out.println(contaCorrente.cliente.idade);
 	}
 
 }
-
