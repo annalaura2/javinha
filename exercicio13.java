@@ -22,6 +22,7 @@ public class exercicio13 {
 		}
 		
 		System.out.println("---- FIM DO ALGORITMO ----");
+		n.close();
 	}
 
 }
