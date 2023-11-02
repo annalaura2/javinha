@@ -7,7 +7,7 @@ Este repositório tem como intuito trazer evoluções e projetos que serão impl
 * **Anna Laura Castro Sousa** - *3º período de Ciência da Computação - Universidade Federal do Tocantins* - [GITHUB](https://github.com/annalaura2)
  
 
-## 📦 DOCUMENTAÇÃO E LIVROS DE APOIO
+## 📦 DOCUMENTAÇÃO E MATERIAIS DE APOIO
 
 * [DOCUMENTAÇÃO](https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html)
 * [EXERCÍCIOS DE ALGORITMOS](https://www.inf.pucrs.br/~pinho/LaproI/Exercicios/SeqDecisao/lista1.htm)
