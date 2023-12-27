@@ -4,7 +4,7 @@ Este repositório tem como intuito trazer evoluções e projetos que serão impl
 
 ## ✒️ Autores
 
-* **Anna Laura Castro Sousa** - *3º período de Ciência da Computação - Universidade Federal do Tocantins* - [GITHUB](https://github.com/annalaura2)
+* **Anna Laura Castro Sousa** - *4º período de Ciência da Computação - Universidade Federal do Tocantins* - [GITHUB](https://github.com/annalaura2)
  
 
 ## 📦 DOCUMENTAÇÃO E MATERIAIS DE APOIO
